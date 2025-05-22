@@ -1,0 +1,7 @@
+aiogram
+fastapi
+uvicorn
+sqlalchemy
+aiohttp
+python-dotenv
+requests
